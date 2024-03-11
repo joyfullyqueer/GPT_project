@@ -1,0 +1,104 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Violence Against Women In Afghanistan (2017-2024) - Welcome to Our Project</title>
+    <style>
+        body {
+            font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+            margin: 20px;
+            background-color: #ffffff; /* White background */
+            color: #333333; /* Dark grey text color */
+        }
+
+        header {
+            text-align: center;
+            margin-bottom: 20px;
+            padding: 20px;
+            background-color: #8b0000; /* Dark red header background */
+            color: #ffffff; /* White text color */
+        }
+
+        h2 {
+            text-align: center;
+            margin-bottom: 20px;
+            color: #8b0000; /* Dark red heading color */
+        }
+
+        nav {
+            text-align: center;
+            margin-bottom: 20px;
+        }
+
+        nav a {
+            display: inline-block;
+            margin: 0 10px;
+            padding: 10px;
+            color: #ffffff; /* White text color */
+            text-decoration: none;
+        }
+
+        section {
+            margin-bottom: 30px;
+        }
+
+        .page {
+            width: 80%;
+            margin: 0 auto;
+        }
+
+        .page-content {
+            background-color: #ffffff; /* White background for main sections */
+            padding: 15px;
+            border-radius: 5px;
+            box-shadow: 0 0 10px rgba(0, 0, 0, 0.1); /* Add a subtle shadow effect */
+        }
+
+        footer {
+            text-align: center;
+            margin-top: 50px;
+            padding: 10px;
+            background-color: #8b0000; /* Dark red footer background */
+            color: #ffffff; /* White text color */
+        }
+
+        /* Add a touch of cultural pattern */
+        .cultural-pattern {
+            background-image: url('afghan-pattern.png'); /* Replace with an actual cultural pattern image */
+            background-repeat: repeat;
+        }
+    </style>
+</head>
+
+<body>
+
+    <header class="cultural-pattern">
+        <h1>Violence Against Women In Afghanistan (2017-2024)</h1>
+        
+        <nav>
+            <a href="overview.html">Overview</a>
+            <a href="visualization.html">Data Visualization</a>
+            <a href="sources.html">Sources</a>
+            <a href="extra-info.html">Extra Information</a>
+        </nav>
+    </header>
+
+    <section class="page">
+        <div class="page-content">
+	<h2>Welcome to Our Project</h2>
+            <p>
+                [Write a brief description of the project and its goals. This space can be used to provide an introduction or
+                any important context for your audience.]
+            </p>
+        </div>
+    </section>
+
+    <footer class="cultural-pattern">
+        <p>&copy; 2024 Violence Against Women In Afghanistan Project</p>
+    </footer>
+
+</body>
+
+</html>
