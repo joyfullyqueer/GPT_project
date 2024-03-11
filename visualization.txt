@@ -1,0 +1,32 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Mermaid Visualization</title>
+
+    <!-- Add the Mermaid CSS -->
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/mermaid@10/dist/mermaid.css">
+
+    <!-- Add the Mermaid library -->
+    <script type="module">
+        import mermaid from 'https://cdn.jsdelivr.net/npm/mermaid@10/dist/mermaid.esm.min.mjs';
+        mermaid.initialize({startOnLoad:true});
+    </script>
+</head>
+<body>
+
+    <!-- Your Mermaid code goes here -->
+    <div class="mermaid">
+        xychart-beta
+  title "Fatalities in Afghanistan"
+  x-axis [2017, 2018, 2019, 2020, 2021, 2022, 2023, 2024]
+  y-axis "Fatalities" 0 --> 50
+  bar [11, 15, 6, 21, 32, 40, 17, 2]
+  line [11, 15, 6, 21, 32, 40, 17, 2]
+
+    </div>
+
+</body>
+</html>
